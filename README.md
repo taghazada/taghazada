@@ -27,6 +27,6 @@ Feel free to reach out and connect!
 
 ## My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=taghazada&show_icons=true&theme=dark)](https://github.com/taghazada)
 
 Thanks for visiting my profile! 😄
