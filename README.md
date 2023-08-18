@@ -23,7 +23,6 @@ Feel free to reach out and connect!
 
 <img align="bottom" alt="GIF" src="https://media.giphy.com/media/GoHD0xCYwjM5y/giphy.gif?raw=true" width="200" height="200" />
 <img align="bottom" alt="GIF" src="https://media.giphy.com/media/QgixZj4y3TwnS/giphy.gif?raw=true" width="200" height="200" />
-Thanks for visiting my profile! 😄
 
 
 ## My GitHub Stats
