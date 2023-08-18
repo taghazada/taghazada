@@ -10,7 +10,7 @@ I'm passionate about Sysops/DevOps, and I enjoy watching comedy films and readin
 
 ## Connect with Me
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/taghazada) and [Telegram](https://t.me/taghazada)).
+You can find me on [LinkedIn](https://www.linkedin.com/in/taghazada) and [Telegram](https://t.me/taghazada).
 
 Feel free to reach out and connect!
 
