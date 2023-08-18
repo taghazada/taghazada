@@ -10,7 +10,7 @@
 
 <br />
 
-Hello, my name is Tural Aghazada and I am a student. Now I'm studying to be an IT specialist. I am learning Git and some other interesting technologies.
+Hello, my name is Tural Aghazada. I’m currently learning on Cloud and DevOps. I’m looking to collaborate with other content creators
 
 <br />
 
