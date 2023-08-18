@@ -10,20 +10,9 @@ I'm passionate about Sysops/DevOps, and I enjoy watching comedy films and readin
 
 ## Connect with Me
 
+You can find me on [LinkedIn](https://www.linkedin.com/in/taghazada) and [Telegram](https://t.me/taghazada)).
+
 Feel free to reach out and connect!
-
-<a href="https://www.linkedin.com/in/taghazada">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> 
-<a href="https://t.me/taghazada">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-## Fun Fact
-
-<img align="bottom" alt="GIF" src="https://media.giphy.com/media/GoHD0xCYwjM5y/giphy.gif?raw=true" width="200" height="200" />
-<img align="bottom" alt="GIF" src="https://media.giphy.com/media/QgixZj4y3TwnS/giphy.gif?raw=true" width="200" height="200" />
-
 
 ## My GitHub Stats
 
