@@ -1,8 +1,6 @@
-### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif?raw=true" width="200" height="200" />
-  
-# Hi there! 👋
 
 I'm Tural Aghazada. I’m currently learning and working on Cloud Engineer and DevOps. Welcome to my GitHub profile!
 
@@ -28,6 +26,6 @@ Feel free to reach out and connect!
 
 ## Fun Fact
 
-[Interesting Fun Fact about Yourself]
+<img align="bottom" alt="GIF" src="https://media.giphy.com/media/GoHD0xCYwjM5y/giphy.gif?raw=true" width="200" height="200" />
 
 Thanks for visiting my profile! 😄
